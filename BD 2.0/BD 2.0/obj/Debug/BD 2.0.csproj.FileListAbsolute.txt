@@ -1,0 +1,23 @@
+C:\Users\salti\source\repos\BD 2.0\BD 2.0\bin\Debug\BD 2.0.exe.config
+C:\Users\salti\source\repos\BD 2.0\BD 2.0\bin\Debug\BD 2.0.exe
+C:\Users\salti\source\repos\BD 2.0\BD 2.0\bin\Debug\BD 2.0.pdb
+C:\Users\salti\source\repos\BD 2.0\BD 2.0\bin\Debug\EntityFramework.dll
+C:\Users\salti\source\repos\BD 2.0\BD 2.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\salti\source\repos\BD 2.0\BD 2.0\bin\Debug\EntityFramework.xml
+C:\Users\salti\source\repos\BD 2.0\BD 2.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\salti\source\repos\BD 2.0\BD 2.0\obj\Debug\BD 2.0.csprojAssemblyReference.cache
+C:\Users\salti\source\repos\BD 2.0\BD 2.0\obj\Debug\BD 2.0.csproj.CopyComplete
+C:\Users\salti\source\repos\BD 2.0\BD 2.0\obj\Debug\BD 2.0.exe
+C:\Users\salti\source\repos\BD 2.0\BD 2.0\obj\Debug\BD 2.0.pdb
+C:\Users\Тамилла\OneDrive\Рабочий стол\WhatsApp\BD 2.0\BD 2.0\BD 2.0\bin\Debug\BD 2.0.exe.config
+C:\Users\Тамилла\OneDrive\Рабочий стол\WhatsApp\BD 2.0\BD 2.0\BD 2.0\bin\Debug\BD 2.0.exe
+C:\Users\Тамилла\OneDrive\Рабочий стол\WhatsApp\BD 2.0\BD 2.0\BD 2.0\bin\Debug\BD 2.0.pdb
+C:\Users\Тамилла\OneDrive\Рабочий стол\WhatsApp\BD 2.0\BD 2.0\BD 2.0\bin\Debug\EntityFramework.dll
+C:\Users\Тамилла\OneDrive\Рабочий стол\WhatsApp\BD 2.0\BD 2.0\BD 2.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Тамилла\OneDrive\Рабочий стол\WhatsApp\BD 2.0\BD 2.0\BD 2.0\bin\Debug\EntityFramework.xml
+C:\Users\Тамилла\OneDrive\Рабочий стол\WhatsApp\BD 2.0\BD 2.0\BD 2.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Тамилла\OneDrive\Рабочий стол\WhatsApp\BD 2.0\BD 2.0\BD 2.0\obj\Debug\BD 2.0.csprojAssemblyReference.cache
+C:\Users\Тамилла\OneDrive\Рабочий стол\WhatsApp\BD 2.0\BD 2.0\BD 2.0\obj\Debug\BD 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Тамилла\OneDrive\Рабочий стол\WhatsApp\BD 2.0\BD 2.0\BD 2.0\obj\Debug\BD 2.0.csproj.CopyComplete
+C:\Users\Тамилла\OneDrive\Рабочий стол\WhatsApp\BD 2.0\BD 2.0\BD 2.0\obj\Debug\BD 2.0.exe
+C:\Users\Тамилла\OneDrive\Рабочий стол\WhatsApp\BD 2.0\BD 2.0\BD 2.0\obj\Debug\BD 2.0.pdb
